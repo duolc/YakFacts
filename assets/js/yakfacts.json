@@ -1,0 +1,67 @@
+[
+	{
+	   "id":1,
+	   "fact":"Yaks are herbivores.  They eat mainly grasses but will also munch on herbs, flowers, shrubs, and moss. ",
+	   "source":"https://en.wikipedia.org/wiki/Domestic_yak"
+	},
+	{
+	   "id":2,
+	   "fact":"A yak bull can weigh over 1800 pounds (800 kg). ",
+	   "source":"PH"
+	},
+	{
+	   "id":3,
+	   "fact":"Yaks have horns that are about 30 inches long in males and 20 inches long in females. ",
+	   "source":"PH"
+	},
+	{
+	   "id":4,
+	   "fact":"Yak poop can be used as fuel.",
+	   "source":"PH"
+	},
+	{
+	   "id":5,
+	   "fact":"Yak females carry babies for about 9 months before being born.",
+	   "source":"PH"
+	},
+	{
+	   "id":6,
+	   "fact":"Yaks lare native to the Himalayas in Asia.",
+	   "source":"PH"
+	},
+	{
+	   "id":7,
+	   "fact":"Yaks live mostly in elevations of 14,000-20,000 feet.",
+	   "source":"PH"
+	},
+	{
+	   "id":8,
+	   "fact":"Female yaks usually give birth once every other year.",
+	   "source":"PH"
+	},
+	{
+	   "id":9,
+	   "fact":"Yaks are 5-7 feet tall.",
+	   "source":"PH"
+	},
+	{
+	   "id":10,
+	   "fact":"Yaks have heavy coats of hair to keep warm in their cold habitats. ",
+	   "source":"PH"
+	},
+	{
+	   "id":11,
+	   "fact":"Yaks are related to cows.",
+	   "source":"PH"
+	},
+	{
+	   "id":12,
+	   "fact":"Yaks are often used to carry people, carts, packs, and plows.",
+	   "source":"https://www.iyak.org/trekking-packing#:~:text=They%20are%20used%20to%20carry,work%20animals%20at%20moderate%20altitudes.&text=Keep%20in%20mind%20that%20yaks,two%20or%20more%20pack%20yaks."
+	},
+	{
+	   "id":13,
+	   "fact":"Yaks are ungulates; that means they are large hooved mammals.",
+	   "source":"PH"
+	}
+  ]
