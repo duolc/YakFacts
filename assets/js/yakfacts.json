@@ -1,67 +1,25 @@
 [
-	{
-	   "id":1,
-	   "fact":"Yaks are herbivores.  They eat mainly grasses but will also munch on herbs, flowers, shrubs, and moss. ",
-	   "source":"https://en.wikipedia.org/wiki/Domestic_yak"
-	},
-	{
-	   "id":2,
-	   "fact":"A yak bull can weigh over 1800 pounds (800 kg). ",
-	   "source":"PH"
-	},
-	{
-	   "id":3,
-	   "fact":"Yaks have horns that are about 30 inches long in males and 20 inches long in females. ",
-	   "source":"PH"
-	},
-	{
-	   "id":4,
-	   "fact":"Yak poop can be used as fuel.",
-	   "source":"PH"
-	},
-	{
-	   "id":5,
-	   "fact":"Yak females carry babies for about 9 months before being born.",
-	   "source":"PH"
-	},
-	{
-	   "id":6,
-	   "fact":"Yaks lare native to the Himalayas in Asia.",
-	   "source":"PH"
-	},
-	{
-	   "id":7,
-	   "fact":"Yaks live mostly in elevations of 14,000-20,000 feet.",
-	   "source":"PH"
-	},
-	{
-	   "id":8,
-	   "fact":"Female yaks usually give birth once every other year.",
-	   "source":"PH"
-	},
-	{
-	   "id":9,
-	   "fact":"Yaks are 5-7 feet tall.",
-	   "source":"PH"
-	},
-	{
-	   "id":10,
-	   "fact":"Yaks have heavy coats of hair to keep warm in their cold habitats. ",
-	   "source":"PH"
-	},
-	{
-	   "id":11,
-	   "fact":"Yaks are related to cows.",
-	   "source":"PH"
-	},
-	{
-	   "id":12,
-	   "fact":"Yaks are often used to carry people, carts, packs, and plows.",
-	   "source":"https://www.iyak.org/trekking-packing#:~:text=They%20are%20used%20to%20carry,work%20animals%20at%20moderate%20altitudes.&text=Keep%20in%20mind%20that%20yaks,two%20or%20more%20pack%20yaks."
-	},
-	{
-	   "id":13,
-	   "fact":"Yaks are ungulates; that means they are large hooved mammals.",
-	   "source":"PH"
-	}
-  ]
+	{"id":1, "fact": "Yaks are herbivores.  They eat mainly grasses but will also munch on herbs, flowers, shrubs, and moss. ", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":2, "fact": "Wild yaks weigh more than domestic yaks.  A wild yak bull can weigh over 2200 pounds (1000 kg). ", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":3, "fact": "Yaks have horns that can reach 30 inches long in males and 20 inches long in females. ", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":4, "fact": "Yak poop is often used as fuel.  However, it produces black carbon, which is reportedly the second-leading cause of global warming. ", "source": "https://www.nationalgeographic.com/expeditions/get-inspired/inside-look/what-is-a-yak-fun-yak-facts/"},
+	{"id":5, "fact": "Yak females carry babies for about 9 months before being born.", "source": "http://www.ultimateungulate.com/artiodactyla/bos_grunniens.html"},
+	{"id":6, "fact": "Yaks are native to the Himalayas in Asia.", "source": "https://www.alaskazoo.org/tibetan-yak"},
+	{"id":7, "fact": "Yaks live mostly in elevations of 14,000-20,000 feet.", "source": "https://www.britannica.com/animal/yak"},
+	{"id":8, "fact": "Female yaks usually give birth once every other year.", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":9, "fact": "Yaks are 5-7 feet tall.", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":10, "fact": "Yaks have heavy coats of hair to keep warm in their cold habitats. ", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":11, "fact": "Yaks are related to cows, water buffalo, and bison. ", "source": "https://a-z-animals.com/animals/yak/"},
+	{"id":12, "fact": "Yaks are work animals are are used to carry people, carts, packs, and plows.", "source": "https://www.iyak.org/trekking-packing"},
+	{"id":13, "fact": "Yaks are ungulates; that means they are large hooved mammals.", "source": "https://www.newworldencyclopedia.org/entry/Yak"},
+	{"id":14, "fact": "Yak racing is a form of entertainment in Tibet and Karakorum. ", "source": "https://en.wikipedia.org/wiki/Domestic_yak"},
+	{"id":15, "fact": "Yaks eat the same food as cattle but need half the amount of food a cow eats to survive. ", "source": "https://www.alaskazoo.org/tibetan-yak"},
+	{"id":16, "fact": "Yaks live in herds of up to 100 but are usually found in herds of 10-30.  Some males live in bachelor groups; others may live alone.", "source": "https://www.britannica.com/animal/yak"},
+	{"id":17, "fact": "Wild yaks are listed as a vulnerable population.  Their numbers are decreasing. ", "source": "https://www.iucnredlist.org/species/2892/101293528"},
+	{"id":18, "fact": "Yaks live at the highest elevation of any animal.  ", "source": "https://onekindplanet.org/animal/yak/"},
+	{"id":19, "fact": "A yak lifespan is typically 15-20 years.", "source": "https://a-z-animals.com/animals/yak/"},
+	{"id":20, "fact": "The top speed of a yak is 25 miles per hour.", "source": "https://a-z-animals.com/animals/yak/"},
+	{"id":21, "fact": "Yaks can live in temperatures as low as -40 degrees Fahrenheit.", "source": "https://a-z-animals.com/animals/yak/"},
+	{"id":22, "fact": "Yaks are typically black or dark brown in color; some can be cream.", "source": "https://a-z-animals.com/animals/yak/"},
+	{"id":23, "fact": "Tibetan butter tea is a traditional drink in Tibet.  It has a base of black tea and includes yak butter, yak milk, and salt.  ", "source": "https://www.nationalgeographic.com/expeditions/get-inspired/inside-look/what-is-a-yak-fun-yak-facts/"}
+]

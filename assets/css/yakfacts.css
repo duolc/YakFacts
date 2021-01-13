@@ -1,6 +1,9 @@
 body {
 	background-color: #aeb6bf;
-	margin: 10%;
+	background-image: url("/assets/images/yakBack.png");
+	background-size: cover;	
+	background-repeat: no-repeat;
+	margin: 10%; 
 }
 
 .thebusiness {
@@ -9,4 +12,28 @@ body {
 
 .yakimage {
 	width: 100%;
+}
+
+.thefact, .header h1 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	filter: drop-shadow(0 0 1px #ffffff);
+}
+
+.attribution {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	margin-top: 5em;
+	color: #ffffff;
+}
+
+.attribution div a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.attribution div a:hover {
+	text-decoration: underline;
+}
+
+.thesource {
+	filter: drop-shadow(0 0 .25rem #ffffff);
 }
