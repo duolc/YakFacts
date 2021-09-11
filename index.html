@@ -5,28 +5,33 @@
 		<title>YakFacts!</title>
 		<link rel="stylesheet" href="assets/css/reset.css">
 		<link rel="stylesheet" href="assets/css/foundation.css">
-		<link rel="stylesheet" href="assets/css/yakfacts.css">
+		<link rel="stylesheet" href="assets/css/yakfacts.css?v=1.1">
 		<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 		<script type="text/javascript" src="assets/js/scripts.js"></script>
 	</head>
 	<body>
-		<div class="grid-x">
-			<div class="cell text-center header"><h1>Click the Yak for more facts!</h1></div>
-		</div>
-		<div class="grid-x thebusiness align-middle">
-			<div class="cell small-6">
-				<img src="assets/images/yak.png" alt="Click for more Yak Facts" id="yakAttack" class="cell yakimage">
+			<div class="content grid-y">	
+				<div class="cell header medium-cell-block-container">
+					<h1>Click the Yak for more facts!</h1>
+				</div>
+				<div class="grid-x facts">
+				<div class="cell small-6">
+					<img src="assets/images/yak.png" alt="Click for more Yak Facts" id="yakAttack" class="yakimage">
+				</div>
+					<div class="cell small-6 text-center">
+						<h2 class="thefact"></h2><br />
+						<h3 class="thesource subheader small"></h3>
+					</div>
+					</div>
+					<div class="cell shrink footer attribution">
+						<div class="grid-x">
+							<span	class="cell text-right">Yak Image: <a href="https://pixabay.com/photos/agriculture-beef-bull-cattle-1850904">https://pixabay.com/photos/agriculture-beef-bull-cattle-1850904</a></span>
+							<span	class="cell text-right">Background Image: <a href="https://pixabay.com/photos/textile-jute-brown-fabric-texture-2918844/">https://pixabay.com/photos/textile-jute-brown-fabric-texture-2918844/</a></span>
+							<span class="cell text-right">Feel Free to contribute: <a href="https://github.com/duolc/YakFacts">https://github.com/duolc/YakFacts</a></span>
+							<span class="cell text-right">Version 1.2</span>
+					</div>
 			</div>
-			<div class="cell small-6 text-center">
-				<h2 class="thefact"></h2>
-				<h3 class="thesource"></h3>
-			</div>
-		</div>
-		<div class="grid-x attribution">
-			<div class="cell text-right">Yak Image: <a href="https://pixabay.com/photos/agriculture-beef-bull-cattle-1850904">https://pixabay.com/photos/agriculture-beef-bull-cattle-1850904</a></div>
-			<div class="cell text-right">Feel Free to contribute: <a href="https://github.com/duolc/YakFacts">https://github.com/duolc/YakFacts</a></div>
-			<div class="cell text-right">Version 1.0</div>
+				</div>
 		</div>
 	</body>
-	
 </html>
